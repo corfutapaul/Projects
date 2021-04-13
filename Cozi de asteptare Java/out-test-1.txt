@@ -1,0 +1,106 @@
+Time 0
+Waiting clients:(3,6,3);(4,14,2);(1,17,2);(2,17,3);
+Queue1: closed
+Queue2: closed
+
+Time 1
+Waiting clients:(3,6,3);(4,14,2);(1,17,2);(2,17,3);
+Queue1: closed
+Queue2: closed
+
+Time 2
+Waiting clients:(3,6,3);(4,14,2);(1,17,2);(2,17,3);
+Queue1: closed
+Queue2: closed
+
+Time 3
+Waiting clients:(3,6,3);(4,14,2);(1,17,2);(2,17,3);
+Queue1: closed
+Queue2: closed
+
+Time 4
+Waiting clients:(3,6,3);(4,14,2);(1,17,2);(2,17,3);
+Queue1: closed
+Queue2: closed
+
+Time 5
+Waiting clients:(3,6,3);(4,14,2);(1,17,2);(2,17,3);
+Queue1: closed
+Queue2: closed
+
+Time 6
+Waiting clients:(4,14,2);(1,17,2);(2,17,3);
+Queue1: (3,6,3)
+Queue2: closed
+
+Time 7
+Waiting clients:(4,14,2);(1,17,2);(2,17,3);
+Queue1: (3,6,2)
+Queue2: closed
+
+Time 8
+Waiting clients:(4,14,2);(1,17,2);(2,17,3);
+Queue1: (3,6,1)
+Queue2: closed
+
+Time 9
+Waiting clients:(4,14,2);(1,17,2);(2,17,3);
+Queue1: closed
+Queue2: closed
+
+Time 10
+Waiting clients:(4,14,2);(1,17,2);(2,17,3);
+Queue1: closed
+Queue2: closed
+
+Time 11
+Waiting clients:(4,14,2);(1,17,2);(2,17,3);
+Queue1: closed
+Queue2: closed
+
+Time 12
+Waiting clients:(4,14,2);(1,17,2);(2,17,3);
+Queue1: closed
+Queue2: closed
+
+Time 13
+Waiting clients:(4,14,2);(1,17,2);(2,17,3);
+Queue1: closed
+Queue2: closed
+
+Time 14
+Waiting clients:(1,17,2);(2,17,3);
+Queue1: (4,14,2)
+Queue2: closed
+
+Time 15
+Waiting clients:(1,17,2);(2,17,3);
+Queue1: (4,14,1)
+Queue2: closed
+
+Time 16
+Waiting clients:(1,17,2);(2,17,3);
+Queue1: closed
+Queue2: closed
+
+Time 17
+Waiting clients:None
+Queue1: (1,17,2)
+Queue2: (2,17,3)
+
+Time 18
+Waiting clients:None
+Queue1: (1,17,1)
+Queue2: (2,17,2)
+
+Time 19
+Waiting clients:None
+Queue1: closed
+Queue2: (2,17,1)
+
+Time 20
+Waiting clients:None
+Queue1: closed
+Queue2: closed
+
+Average Time:2.5
